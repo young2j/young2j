@@ -10,12 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/young2j/young2j/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
