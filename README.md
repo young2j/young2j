@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm young2j from China<br><br>- 🔭 I’m working as network security development engineer.<br>- 📚 I'm currently learning WAF and storage technology.<br>- ⚡ In my free time I ... just want to lie flat.</p>
+<p align="left">I'm young2j from China<br><br>- 🔭 I’m working as a backend development engineer.<br>- 📚 My current job is security development about content. <br>- ⚡ In my free time I ... just want to lie flat.</p>
 
 ###
 
